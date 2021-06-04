@@ -1,0 +1,32 @@
+.header-block{
+    width: 100%;
+    height: 400px;
+    color: white;
+    background: radial-gradient(#c5c4c4, #737374)
+}
+
+.header-block .main {
+    font-size: 80px;
+    padding: 60px  20px 0;
+    list-style: none;
+    line-height:1;
+
+}
+.header-block .sub {
+    font-size: 20px;
+    padding:  0 20px 0;
+    list-style: none;
+
+}
+
+.header-block img {
+    width: 400px;
+    position: absolute;
+    top: 17px;
+    left: 284px;
+}
+
+
+.third-block {
+background-color: black;
+}
